@@ -1,0 +1,2 @@
+# veeto
+A vite application
